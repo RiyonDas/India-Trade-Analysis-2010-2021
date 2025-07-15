@@ -15,3 +15,6 @@ This Power BI analytics report will give you an in depth approach about India's 
 
 ## Final Report -
 - <a href="https://github.com/RiyonDas/India-Trade-Analysis-2010-2021/blob/1fdcd3d07f9f4be24a46d624d6ed98aa0b863c6e/India's%20Trade%20Report%20Analysis.pbix">View Power BI Report
+
+## Dashboard Image - 
+https://github.com/RiyonDas/India-Trade-Analysis-2010-2021/blob/1fdcd3d07f9f4be24a46d624d6ed98aa0b863c6e/India's%20Trade%20Report%20Analysis.pbix
